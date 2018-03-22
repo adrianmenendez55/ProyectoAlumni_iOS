@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - AwesomeTextFieldSwift (0.2.1)
+  - SimpleAnimation (0.4.0)
+  - TextFieldEffects (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 3.3)
+  - AwesomeTextFieldSwift (~> 0.2)
+  - SimpleAnimation (~> 0.4)
+  - TextFieldEffects (~> 1.4)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  AwesomeTextFieldSwift: 650034ba1ae47816f6cb114ec908da298aef3669
+  SimpleAnimation: a3473da5421c65100d68f98a44fc853b81091249
+  TextFieldEffects: 4ee41b5216e674d55fb6ac25107bf1af7629176f
+
+PODFILE CHECKSUM: 8b4a1d4a74f6f057bbebc12d4bb4c28fa6f05e5d
+
+COCOAPODS: 1.4.0

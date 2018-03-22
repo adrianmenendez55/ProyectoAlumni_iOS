@@ -1,0 +1,125 @@
+//
+//  Localizable.strings
+//  Alumni
+//
+//  Created by alumnos on 10/1/18.
+//  Copyright © 2018 adrian. All rights reserved.
+//
+
+"labRegister" = "Registro";
+"labLogin" = "Login";
+"labRecover" = "Recuperar Contraseña";
+"username"="Usuario";
+"email"="Correo electrónico";
+"password"="Contraseña";
+"repeatpassword"="Repite Contraseña";
+"login"="Iniciar sesión";
+"alumni"="ALUMNI";
+"enter"="Iniciar sesión";
+"send"="Enviar";
+"forgot"="¿Olvidaste tu contraseña?";
+"register"="Registrarse";
+"haveaccount"="¿Todavía no tienes tu cuenta?";
+"cancel"="Volver";
+"labelReg"="Registro";
+"reg"="Regístrate";
+"imuser"="Yo soy usuario de ALUMNI";
+"newPassword"="Nueva contraseña";
+"introduceNewPassword"="Introduce nueva contraseña";
+"repeatNewPasswordLbl"="Repetir contraseña";
+"changePasswordButton"="Cambiar";
+"backPasswordButton"="Volver";
+"descriptionLblPassword"="Introduce tu correo electrónico para poder cambiar tu contraseña";
+"bienvenido" = "Bienvenido";
+"information"="Envía tus mensajes, mira tus eventos, observa las últimas noicias y ponte al día con las ofertas de trabajo";
+"quieroempezar" = "¡QUIERO EMPEZAR!";
+"recuperarcontraseña"="Recuperar contraseña";
+"correoderestablecimiento"="Correo de restablecimiento de contraseña enviado";
+"aceptar"="Aceptar";
+
+//Panel
+
+"PanelLbl"="Panel";
+
+//PruebaView
+
+"cancelButton"="Cancelar";
+
+"NewLabel"="Nuevo";
+
+"TypeAnnounceLabel"="¿Que tipo de anuncio quieres crear?";
+
+"EventLabel"="Evento";
+
+"NewsLabel"="Noticia";
+
+"OfertsLabel"="Oferta de trabajo";
+
+"NotificationsLabel"="Notificaciones";
+
+//VCSecond
+
+"descriptionLbl"="Nuevo anuncio";
+
+"titleLbl"="Introduzca datos del anuncio";
+
+"cancelBtn"="Cancelar";
+
+"continueBtn"="Continuar";
+
+"backBtn"="Volver";
+
+"titleTwoLbl"="Introducir titulo";
+
+"titleOneLbl"="Introducir descripción";
+
+//VCThree
+
+"newEventLbl"="Nuevo anuncio";
+
+"cancelBtn"="Cancelar";
+
+"introduceEventLbl"="Introduzca datos del anuncio";
+
+"createBtn"="Continuar";
+
+"backBtn"="Volver";
+
+"introduceLocationLbl"="Introducir localización(opcional)";
+
+"IntroduceUrlLbl"="Introducir URL(opcional)";
+
+//VCFour
+
+"NewEventLbl"="Nuevo anuncio";
+
+"CancelLbl"="Cancelar";
+
+"DirigidoLbl"="¿A quién va dirigido?";
+
+"unSelect"="Deseleccionar Todo";
+
+"createEventBtn"="Crear";
+
+//VCFive
+
+"newEventLbl"="Nuevo anuncio";
+"eventCreatedLbl"="Anuncio Creado";
+"goodLbl"="¡Bien Hecho!";
+"acceptBtn"="Aceptar";
+
+//DetailEvent
+
+"backButton"="ATRÁS";
+
+//Users
+
+"usersLbl"="Usuarios";
+
+//SettingsView
+
+"ConfigurationLbl"="Configuración";
+"EditProfileLbl"="Editar Perfil";
+"QuestionsFrecuentsTextView"="Preguntas Frecuentes";
+"SettingsLbl"="Ajustes";
+"LogoutLbl"="Cerrar Sesión";

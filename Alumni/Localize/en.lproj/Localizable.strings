@@ -1,0 +1,86 @@
+//
+//  Localizable.strings
+//  Alumni
+//
+//  Created by alumnos on 10/1/18.
+//  Copyright © 2018 adrian. All rights reserved.
+//
+
+"labRegister" = "Register";
+"labLogin" = "Login";
+"labRecover" = "Recover Password";
+"username"="Username";
+"email"="Email";
+"password"="Password";
+"repeatpassword"="Repeat Password";
+"login"="Login";
+"cancel"="Back";
+"enter"="Enter";
+"send"="Send";
+"forgot"="Forgot Pass?";
+"register"="Register";
+"haveaccount"="Don't have an account?";
+"alumni"="ALUMNI";
+"labelReg"="Register";
+"reg"="Register";
+"imuser"="I'm user of ALUMNI";
+"newPassword"="New password";
+"introduceNewPassword"="Enter your new password";
+"repeatNewPasswordLbl"="Repeat password";
+"changePasswordButton"="Change";
+"backPasswordButton"="Back";
+"descriptionLblPassword"="Enter your email to change your password";
+"bienvenido" = "Welcome";
+"information"="Send your messages, watch your events, watch the latest news and catch up on job offers";
+"quieroempezar" = "I WANT TO START!";
+"recuperarcontraseña"="Recover password";
+"correoderestablecimiento"="Password reset email sent";
+"aceptar"="Accept";
+
+//Panel
+"PanelLbl"="Panel";
+//PruebaView
+"cancelButton"="Cancel";
+"NewLabel"="New";
+"TypeAnnounceLabel"="¿What kind of ad do you want to create?";
+"EventLabel"="Event";
+"NewsLabel"="Notice";
+"OfertsLabel"="job offer";
+"NotificationsLabel"="Notifications";
+//VCSecond
+"descriptionLbl"="New ad";
+"titleLbl"="Enter ad details";
+"cancelBtn"="Cancel";
+"continueBtn"="Continue";
+"backBtn"="Back";
+"titleTwoLbl"="Enter title";
+"titleOneLbl"="Enter Description";
+//VCThree
+"newEventLbl"="New ad";
+"cancelBtn"="Cancel";
+"introduceEventLbl"="Enter ad details";
+"createBtn"="Continue";
+"backBtn"="Back";
+"introduceLocationLbl"="Enter location (optional)";
+"IntroduceUrlLbl"="Enter URL (optional)";
+//VCFour
+"NewEventLbl"="New ad";
+"CancelLbl"="Cancel";
+"DirigidoLbl"="¿Who is it aimed at?";
+"unSelect"="Deselect All";
+"createEventBtn"="Create";
+//VCFive
+"newEventLbl"="New ad";
+"eventCreatedLbl"="Ad Created";
+"goodLbl"="¡Well Done!";
+"acceptBtn"="Accept";
+//DetailEvent
+"backButton"="BACK";
+//Users
+"usersLbl"="Users";
+//SettingsView
+"ConfigurationLbl"="Configuration";
+"EditProfileLbl"="Edit Profile";
+"QuestionsFrecuentsTextView"="Frequently Asked Questions";
+"SettingsLbl"="Settings";
+"LogoutLbl"="Log Out";

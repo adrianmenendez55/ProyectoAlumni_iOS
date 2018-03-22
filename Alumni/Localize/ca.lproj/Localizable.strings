@@ -1,0 +1,87 @@
+//
+//  Localizable.strings
+//  Alumni
+//
+//  Created by alumnos on 10/1/18.
+//  Copyright © 2018 adrian. All rights reserved.
+//
+
+
+"labRegister" = "Registre";
+"labLogin" = "Login";
+"labRecover" = "Recuperar Contrasenya";
+"username"="Usuari";
+"email"="Correu electrònic";
+"password"="Contrasenya";
+"repeatpassword"="Repeteix Contrasenya";
+"login"="Iniciar sessió";
+"alumni"="ALUMNI";
+"enter"="Iniciar sessió";
+"send"="Enviar";
+"forgot"="¿Perdut la contrasenya?";
+"register"="Registrar";
+"haveaccount"="¿Encara no tens el teu compte?";
+"cancel"="Tornar";
+"labelReg"="Registre";
+"reg"="Registra't";
+"imuser"="Jo sóc usuari d'ALUMNI";
+"newPassword"="Nova contrasenya";
+"introduceNewPassword"="Introdueix nova contrasenya";
+"repeatNewPasswordLbl"="Repetir contrasenya";
+"changePasswordButton"="Canviar";
+"backPasswordButton"="Tornar";
+"descriptionLblPassword"="Introdueix el teu correu electrònic per poder canviar la teva contrasenya";
+"bienvenido" = "Benvingut";
+"information"="Envia els teus missatges, mira els teus esdeveniments, observa les últimes notícies i posa't al dia amb les ofertes de treball";
+"quieroempezar" = "¡VULL COMENÇAR!";
+"recuperarcontraseña"="Recuperar contrasenya";
+"correoderestablecimiento"="Correu de restabliment de contrasenya enviat";
+"aceptar"="Acceptar";
+
+//Panel
+"PanelLbl"="Panell";
+//PruebaView
+"cancelButton"="Cancel·lar";
+"NewLabel"="Nou";
+"TypeAnnounceLabel"="¿Que tipus d'anunci vols crear?";
+"EventLabel"="Esdeveniment";
+"NewsLabel"="Notícia";
+"OfertsLabel"="Oferta de treball";
+"NotificationsLabel"="Notificacions";
+//VCSecond
+"descriptionLbl"="Nou anunci";
+"titleLbl"="Introdueixi dades de l'anunci";
+"cancelBtn"="Cancel·lar";
+"continueBtn"="Continuar";
+"backBtn"="Tornar";
+"titleTwoLbl"="Introduir titulo";
+"titleOneLbl"="Introduir descripció";
+//VCThree
+"newEventLbl"="Nou anunci";
+"cancelBtn"="Cancel·lar";
+"introduceEventLbl"="Introdueixi dades de l'anunci";
+"createBtn"="Continuar";
+"backBtn"="Tornar";
+"introduceLocationLbl"="Introduir localització(opcional)";
+"IntroduceUrlLbl"="Introduir URL(opcional)";
+//VCFour
+"NewEventLbl"="Nou anunci";
+"CancelLbl"="Cancel·lar";
+"DirigidoLbl"="¿A qui va dirigit?";
+"unSelect"="Deseleccionar Tot";
+"createEventBtn"="Crear";
+//VCFive
+"newEventLbl"="Nou anunci";
+"eventCreatedLbl"="Anunci Creat";
+"goodLbl"="¡Ben Fet!";
+"acceptBtn"="Acceptar";
+//DetailEvent
+"backButton"="ENRERE";
+//Users
+"usersLbl"="Usuaris";
+//SettingsView
+"ConfigurationLbl"="Configuració";
+"EditProfileLbl"="Editar Perfil";
+"QuestionsFrecuentsTextView"="Preguntes Freqüents";
+"SettingsLbl"="Ajustos";
+"LogoutLbl"="Tancar Sessió";

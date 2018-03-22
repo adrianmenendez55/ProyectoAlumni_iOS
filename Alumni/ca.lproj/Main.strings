@@ -1,0 +1,282 @@
+
+/* Class = "UILabel"; text = "Evento"; ObjectID = "034-Z0-Dsg"; */
+"034-Z0-Dsg.text" = "Evento";
+
+/* Class = "UILabel"; text = "Introduzca datos del anuncio"; ObjectID = "0Fy-Zd-WRU"; */
+"0Fy-Zd-WRU.text" = "Introduzca datos del anuncio";
+
+/* Class = "UIButton"; normalTitle = "Volver"; ObjectID = "0JS-mG-gVz"; */
+"0JS-mG-gVz.normalTitle" = "Volver";
+
+/* Class = "UIButton"; normalTitle = "Aceptar"; ObjectID = "0PB-Cg-RAz"; */
+"0PB-Cg-RAz.normalTitle" = "Aceptar";
+
+/* Class = "UILabel"; text = "Contraseña"; ObjectID = "1HN-rL-Vk5"; */
+"1HN-rL-Vk5.text" = "Contraseña";
+
+/* Class = "UILabel"; text = "Nuevo"; ObjectID = "1a0-G3-1D2"; */
+"1a0-G3-1D2.text" = "Nuevo";
+
+/* Class = "UILabel"; text = "Contraseña"; ObjectID = "2VC-z4-k3K"; */
+"2VC-z4-k3K.text" = "Contraseña";
+
+/* Class = "UILabel"; text = "Bienvenido"; ObjectID = "2fg-Lk-DYw"; */
+"2fg-Lk-DYw.text" = "Bienvenido";
+
+/* Class = "UITextView"; text = "Envía tus mensajes, mira tus eventos, observa las últimas noicias y ponte al día con las ofertas de trabajo"; ObjectID = "36z-ln-dZH"; */
+"36z-ln-dZH.text" = "Envía tus mensajes, mira tus eventos, observa las últimas noicias y ponte al día con las ofertas de trabajo";
+
+/* Class = "UIButton"; normalTitle = "Cambiar"; ObjectID = "39Z-Zu-f9W"; */
+"39Z-Zu-f9W.normalTitle" = "Cambiar";
+
+/* Class = "UILabel"; text = "Introducir descripción"; ObjectID = "4ij-qg-2sY"; */
+"4ij-qg-2sY.text" = "Introducir descripción";
+
+/* Class = "UILabel"; text = "Nuevo anuncio"; ObjectID = "5f1-YX-Kkx"; */
+"5f1-YX-Kkx.text" = "Nuevo anuncio";
+
+/* Class = "UILabel"; text = "Recuperar Contraseña"; ObjectID = "61R-Ow-beZ"; */
+"61R-Ow-beZ.text" = "Recuperar Contraseña";
+
+/* Class = "UIButton"; normalTitle = "< Volver"; ObjectID = "7RN-oZ-5Lg"; */
+"7RN-oZ-5Lg.normalTitle" = "< Volver";
+
+/* Class = "UITextView"; text = "Estudiante en Grado Superior de Desarrollo de Aplicaciones Multiplataforma"; ObjectID = "7dv-M9-XQ2"; */
+"7dv-M9-XQ2.text" = "Estudiante en Grado Superior de Desarrollo de Aplicaciones Multiplataforma";
+
+/* Class = "UIButton"; normalTitle = "Volver"; ObjectID = "8Fu-d1-vZK"; */
+"8Fu-d1-vZK.normalTitle" = "Volver";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "9TF-Kf-H5E"; */
+"9TF-Kf-H5E.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Deseleccionar todo"; ObjectID = "9yP-po-rnj"; */
+"9yP-po-rnj.normalTitle" = "Deseleccionar todo";
+
+/* Class = "UITextView"; text = "Bilbao se convertirá los próximos 22 y 23 de Noviembre en el epicentro nacional del sofware libre y las tecnologías abiertas. El Palacio Euskalduna de la capital vizcaína acogerá la VI edición del Congreso Nacional de Sotfware Libre"; ObjectID = "B9G-by-Gvc"; */
+"B9G-by-Gvc.text" = "Bilbao se convertirá los próximos 22 y 23 de Noviembre en el epicentro nacional del sofware libre y las tecnologías abiertas. El Palacio Euskalduna de la capital vizcaína acogerá la VI edición del Congreso Nacional de Sotfware Libre";
+
+/* Class = "UIButton"; normalTitle = "Ya soy usuario de ALUMNI"; ObjectID = "Crf-Mt-iJ0"; */
+"Crf-Mt-iJ0.normalTitle" = "Ya soy usuario de ALUMNI";
+
+/* Class = "UITextView"; text = "Preguntas frecuentes"; ObjectID = "CsT-1n-Gc2"; */
+"CsT-1n-Gc2.text" = "Preguntas frecuentes";
+
+/* Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "DcP-14-c7j"; */
+"DcP-14-c7j.normalTitle" = "Cancelar";
+
+/* Class = "UISegmentedControl"; E6e-RD-5Rk.segmentTitles[0] = "TODOS"; ObjectID = "E6e-RD-5Rk"; */
+"E6e-RD-5Rk.segmentTitles[0]" = "TODOS";
+
+/* Class = "UISegmentedControl"; E6e-RD-5Rk.segmentTitles[1] = "CURSOS"; ObjectID = "E6e-RD-5Rk"; */
+"E6e-RD-5Rk.segmentTitles[1]" = "CURSOS";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "EHv-nZ-1Xq"; */
+"EHv-nZ-1Xq.text" = "E-mail";
+
+/* Class = "UIButton"; normalTitle = "Crear"; ObjectID = "F3h-16-1Xj"; */
+"F3h-16-1Xj.normalTitle" = "Crear";
+
+/* Class = "UILabel"; text = "Introducir título"; ObjectID = "FTJ-UO-pW2"; */
+"FTJ-UO-pW2.text" = "Introducir título";
+
+/* Class = "UILabel"; text = "Noticia"; ObjectID = "G99-QP-7LM"; */
+"G99-QP-7LM.text" = "Noticia";
+
+/* Class = "UITextView"; text = "iOS ha anunciado que sacara una nueva version proximamente"; ObjectID = "GYv-DL-W57"; */
+"GYv-DL-W57.text" = "iOS ha anunciado que sacara una nueva version proximamente";
+
+/* Class = "UILabel"; text = "Recuperar Contraseña"; ObjectID = "Gcc-gY-q1I"; */
+"Gcc-gY-q1I.text" = "Recuperar Contraseña";
+
+/* Class = "UILabel"; text = "Adrián Fernández"; ObjectID = "HW3-X2-LAq"; */
+"HW3-X2-LAq.text" = "Adrián Fernández";
+
+/* Class = "UILabel"; text = "Nueva contraseña"; ObjectID = "I1z-A1-f4c"; */
+"I1z-A1-f4c.text" = "Nueva contraseña";
+
+/* Class = "UIButton"; normalTitle = "Volver"; ObjectID = "I5a-qF-nAs"; */
+"I5a-qF-nAs.normalTitle" = "Volver";
+
+/* Class = "UITabBarItem"; title = "Usuarios"; ObjectID = "IMu-dJ-dgs"; */
+"IMu-dJ-dgs.title" = "Usuarios";
+
+/* Class = "UIButton"; normalTitle = "Aceptar"; ObjectID = "IgG-re-cg2"; */
+"IgG-re-cg2.normalTitle" = "Aceptar";
+
+/* Class = "UILabel"; text = "APPS1MA"; ObjectID = "NU9-nY-4Dl"; */
+"NU9-nY-4Dl.text" = "APPS1MA";
+
+/* Class = "UILabel"; text = "Anuncio creado"; ObjectID = "P5e-fd-vjl"; */
+"P5e-fd-vjl.text" = "Anuncio creado";
+
+/* Class = "UIButton"; normalTitle = "¿Olvidaste tu contraseña?"; ObjectID = "PGt-tY-h0O"; */
+"PGt-tY-h0O.normalTitle" = "¿Olvidaste tu contraseña?";
+
+/* Class = "UITabBarItem"; title = "Configuración"; ObjectID = "PtV-fc-69j"; */
+"PtV-fc-69j.title" = "Configuración";
+
+/* Class = "UILabel"; text = "Repetir nueva contraseña"; ObjectID = "QGD-9x-IZd"; */
+"QGD-9x-IZd.text" = "Repetir nueva contraseña";
+
+/* Class = "UILabel"; text = "Introduzca datos del anuncio"; ObjectID = "QkV-vk-39g"; */
+"QkV-vk-39g.text" = "Introduzca datos del anuncio";
+
+/* Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "Qx0-jH-tbU"; */
+"Qx0-jH-tbU.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Noticia"; ObjectID = "R09-vb-xbb"; */
+"R09-vb-xbb.text" = "Noticia";
+
+/* Class = "UILabel"; text = "Evento"; ObjectID = "RJa-12-X0F"; */
+"RJa-12-X0F.text" = "Evento";
+
+/* Class = "UILabel"; text = "Usuarios"; ObjectID = "S6e-YY-RUq"; */
+"S6e-YY-RUq.text" = "Usuarios";
+
+/* Class = "UIButton"; normalTitle = "¡QUIERO EMPEZAR!"; ObjectID = "SwD-tu-91d"; */
+"SwD-tu-91d.normalTitle" = "¡QUIERO EMPEZAR!";
+
+/* Class = "UITextView"; text = "Introduce tu correo electrónico para poder cambiar tu contraseña"; ObjectID = "TlI-Fp-GI2"; */
+"TlI-Fp-GI2.text" = "Introduce tu correo electrónico para poder cambiar tu contraseña";
+
+/* Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "UjV-M8-cjv"; */
+"UjV-M8-cjv.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Descripción"; ObjectID = "UjW-Sd-QjQ"; */
+"UjW-Sd-QjQ.text" = "Descripción";
+
+/* Class = "UILabel"; text = "Evento sobre tecnología"; ObjectID = "WQV-36-Het"; */
+"WQV-36-Het.text" = "Evento sobre tecnología";
+
+/* Class = "UILabel"; text = "Editar Perfil"; ObjectID = "Wnw-A7-KO6"; */
+"Wnw-A7-KO6.text" = "Editar Perfil";
+
+/* Class = "UILabel"; text = "Oferta de trabajo"; ObjectID = "Wz2-G3-BZa"; */
+"Wz2-G3-BZa.text" = "Oferta de trabajo";
+
+/* Class = "UILabel"; text = "Correo electrónico"; ObjectID = "YDy-mS-KDC"; */
+"YDy-mS-KDC.text" = "Correo electrónico";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "Zv2-cF-Mkj"; */
+"Zv2-cF-Mkj.normalTitle" = "Continuar";
+
+/* Class = "UIButton"; normalTitle = "Enviar"; ObjectID = "adl-6m-6aw"; */
+"adl-6m-6aw.normalTitle" = "Enviar";
+
+/* Class = "UILabel"; text = "Configuración"; ObjectID = "axw-Rj-jem"; */
+"axw-Rj-jem.text" = "Configuración";
+
+/* Class = "UILabel"; text = "Nuevo anuncio"; ObjectID = "bLI-8V-PzM"; */
+"bLI-8V-PzM.text" = "Nuevo anuncio";
+
+/* Class = "UIButton"; normalTitle = "Volver"; ObjectID = "boH-ux-Ab8"; */
+"boH-ux-Ab8.normalTitle" = "Volver";
+
+/* Class = "UITextView"; text = "Correo de restablecimiento de contraseña enviado"; ObjectID = "cro-Cj-Pg2"; */
+"cro-Cj-Pg2.text" = "Correo de restablecimiento de contraseña enviado";
+
+/* Class = "UILabel"; text = "¡Bien hecho!"; ObjectID = "cyH-Ke-9CS"; */
+"cyH-Ke-9CS.text" = "¡Bien hecho!";
+
+/* Class = "UITabBarItem"; title = "Panel"; ObjectID = "fjE-Ec-kto"; */
+"fjE-Ec-kto.title" = "Panel";
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "g2E-tC-0YD"; */
+"g2E-tC-0YD.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Notificaciones"; ObjectID = "g34-iN-s8d"; */
+"g34-iN-s8d.text" = "Notificaciones";
+
+/* Class = "UILabel"; text = "¿Que tipo de anuncio quieres crear?"; ObjectID = "gKH-Y6-cpd"; */
+"gKH-Y6-cpd.text" = "¿Que tipo de anuncio quieres crear?";
+
+/* Class = "UILabel"; text = "Cerrar sesión"; ObjectID = "hE6-nV-x0x"; */
+"hE6-nV-x0x.text" = "Cerrar sesión";
+
+/* Class = "UILabel"; text = "Detalle del usuario"; ObjectID = "hPk-7T-1ty"; */
+"hPk-7T-1ty.text" = "Detalle del usuario";
+
+/* Class = "UIButton"; normalTitle = "Enviar"; ObjectID = "hbk-i0-cf5"; */
+"hbk-i0-cf5.normalTitle" = "Enviar";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hnb-Gb-oVV"; */
+"hnb-Gb-oVV.text" = "Title";
+
+/* Class = "UILabel"; text = "Usuario"; ObjectID = "ixC-nJ-0Tc"; */
+"ixC-nJ-0Tc.text" = "Usuario";
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "jcU-EF-yxz"; */
+"jcU-EF-yxz.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Nuevo anuncio"; ObjectID = "kUM-HZ-IF3"; */
+"kUM-HZ-IF3.text" = "Nuevo anuncio";
+
+/* Class = "UIButton"; normalTitle = "Registrate"; ObjectID = "l2I-AK-zm6"; */
+"l2I-AK-zm6.normalTitle" = "Registrate";
+
+/* Class = "UILabel"; text = "Nueva versión de iOS"; ObjectID = "lV6-By-xqD"; */
+"lV6-By-xqD.text" = "Nueva versión de iOS";
+
+/* Class = "UILabel"; text = "Introducir localización(opcional)"; ObjectID = "oAv-CJ-7UG"; */
+"oAv-CJ-7UG.text" = "Introducir localización(opcional)";
+
+/* Class = "UILabel"; text = "¿Todavía no tienes tu cuenta?"; ObjectID = "p3g-2G-Llc"; */
+"p3g-2G-Llc.text" = "¿Todavía no tienes tu cuenta?";
+
+/* Class = "UILabel"; text = "Correo electrónico"; ObjectID = "pTl-ey-ckz"; */
+"pTl-ey-ckz.text" = "Correo electrónico";
+
+/* Class = "UIButton"; normalTitle = "ATRÁS"; ObjectID = "pbO-jH-vAk"; */
+"pbO-jH-vAk.normalTitle" = "ATRÁS";
+
+/* Class = "UILabel"; text = "Registro"; ObjectID = "pqT-Y4-PJ8"; */
+"pqT-Y4-PJ8.text" = "Registro";
+
+/* Class = "UILabel"; text = "Repetir contraseña"; ObjectID = "qSo-za-lTi"; */
+"qSo-za-lTi.text" = "Repetir contraseña";
+
+/* Class = "UILabel"; text = "Introducir URL(opcional)"; ObjectID = "qhc-7O-9mk"; */
+"qhc-7O-9mk.text" = "Introducir URL(opcional)";
+
+/* Class = "UILabel"; text = "Nuevo anuncio"; ObjectID = "qp2-Ox-HIp"; */
+"qp2-Ox-HIp.text" = "Nuevo anuncio";
+
+/* Class = "UILabel"; text = "Panel"; ObjectID = "sRM-fC-Y7o"; */
+"sRM-fC-Y7o.text" = "Panel";
+
+/* Class = "UITextView"; text = "Introduce tu nueva contraseña"; ObjectID = "scA-tz-LQn"; */
+"scA-tz-LQn.text" = "Introduce tu nueva contraseña";
+
+/* Class = "UILabel"; text = "adrián@cev.com"; ObjectID = "tXO-OO-7ex"; */
+"tXO-OO-7ex.text" = "adrián@cev.com";
+
+/* Class = "UIButton"; normalTitle = "INICIAR SESIÓN"; ObjectID = "uvg-n7-LIk"; */
+"uvg-n7-LIk.normalTitle" = "INICIAR SESIÓN";
+
+/* Class = "UIButton"; normalTitle = "REGISTRARSE"; ObjectID = "vU6-LL-0EK"; */
+"vU6-LL-0EK.normalTitle" = "REGISTRARSE";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "vvB-Yw-qeE"; */
+"vvB-Yw-qeE.normalTitle" = "Continuar";
+
+/* Class = "UILabel"; text = "¿A quién va dirigido?"; ObjectID = "wOf-BU-C6E"; */
+"wOf-BU-C6E.text" = "¿A quién va dirigido?";
+
+/* Class = "UILabel"; text = "Evento"; ObjectID = "xqi-S5-vvN"; */
+"xqi-S5-vvN.text" = "Evento";
+
+/* Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "y1z-Du-zdI"; */
+"y1z-Du-zdI.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "PROFESORES"; ObjectID = "y3f-EJ-H4f"; */
+"y3f-EJ-H4f.text" = "PROFESORES";
+
+/* Class = "UILabel"; text = "Recuperar Contraseña"; ObjectID = "zVH-l0-vGS"; */
+"zVH-l0-vGS.text" = "Recuperar Contraseña";
+
+/* Class = "UILabel"; text = "Ajustes"; ObjectID = "zX3-5s-8Yv"; */
+"zX3-5s-8Yv.text" = "Ajustes";
+
+/* Class = "UIButton"; normalTitle = "Volver"; ObjectID = "zwR-1M-OrI"; */
+"zwR-1M-OrI.normalTitle" = "Volver";
